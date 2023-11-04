@@ -1,6 +1,6 @@
 Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anton
 =============================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Someday+I+will+become+a+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Step+by+step+.+.+.)](https://git.io/typing-svg)
 ---------------------------------------------
  
 In the past I was a project manager in different departments and organisations In October 2022 I started learning C#. I like coding. <br>
