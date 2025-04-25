@@ -3,12 +3,11 @@ Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Step+by+step+.+.+.)](https://git.io/typing-svg)
 ---------------------------------------------
  
-In the past I was a project manager in different departments and organisations In October 2022 I started learning C#. I like coding. <br>
-This is a good way to realize my ambitions to create :raised_hands:
+Now I'm working in organization with own gitlab - thats why my page is resting here )
 
 * 🌍  I'm based in Kazakhstan, Almaty
 * ✉️  You can contact me at [anton@rebez.ru](mailto:anton@rebez.ru) or <a href="http://www.instagram.com/Pe6e3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="16" height="16" /></a>
-* 🧠  I'm learning С# 
+* 🧠  Now I'm a frontend developer, using Vue JS
 
 
 <div style="display: flex; align-items: center;">
